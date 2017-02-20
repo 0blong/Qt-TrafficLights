@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>walk.jpg</file>
+        <file>ButtonSquare.qml</file>
+        <file>main.qml</file>
+        <file>TrafficLight.qml</file>
+        <file>WalkSign.qml</file>
+    </qresource>
+</RCC>
